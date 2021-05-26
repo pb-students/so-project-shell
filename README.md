@@ -1,6 +1,6 @@
 waffsh
 ---
-This shell is a university project. You ***should not*** use it.
+This shell is a university project. You ***should not*** use it. This fork is on the organisation simply to agregate everything related to the studies in one place. Hence it's archieved.
 
 It is available on GitHub: https://github.com/wvffle/waffsh
 
